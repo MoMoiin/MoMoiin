@@ -15,18 +15,19 @@ This github is a sortment of my own personal projects, Learning and tools. Anyth
 * :video_game: Games! (Currently Replaying Sleeping dogs)!
 * :mans_shoe:Skateboarding!
  
- ## Learn New Programming Language
+ ## Programming Languages
    - [x] Python  :battery:(|------------) 10%
    - [x] Java    :battery:(|||----------) 30%
    - [ ] C++     :battery:(-------------) 00%
    - [ ] Groovy  :battery:(-------------) 00%
    - [ ] C#      :battery:(-------------) 00%
  
-  ## Learn New Software
+  ## Software
    - [x] Unity   :battery:(|||||-----) 50%
    - [x] Blender :battery:(|||----------) 30%
    - [ ] Unreal Engine     :battery:(-------------) 00%
-
+   - [ ] Solidworks :battery:(||||||||--) 80%
+   
 <!-- ROADMAP -->
 ## Personal Roadmap
 
