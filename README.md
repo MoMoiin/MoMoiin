@@ -31,8 +31,8 @@ This github is a sortment of my own personal projects, Learning and tools. Anyth
 <!-- ROADMAP -->
 ## Personal Roadmap
 
-  - [ ] :satellite:Complete Robot arm.
-  - [ ] :school_satchel:Dont fail college! (WIP) 
-  - [ ] :computer:Get a job in software
-  - [ ] :low_brightness:Touch Grass
+  - [ ] Ender 3 - SKR Mini E3 Marlin 2.1.1 BLTOUCH
+  - [ ] Robotic arm Project
+  
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
