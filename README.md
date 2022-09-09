@@ -26,7 +26,7 @@ This github is a sortment of my own personal projects, Learning and tools. Anyth
    - [x] Unity   :battery:(|||||-----) 50%
    - [x] Blender :battery:(|||----------) 30%
    - [ ] Unreal Engine     :battery:(-------------) 00%
-   - [ ] Solidworks :battery:(||||||||--) 80%
+   - [x] Solidworks :battery:(||||||||--) 80%
    
 <!-- ROADMAP -->
 ## Personal Roadmap
