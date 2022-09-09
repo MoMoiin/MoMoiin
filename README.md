@@ -18,9 +18,9 @@ This github is a sortment of my own personal projects, Learning and tools. Anyth
 <!-- ROADMAP -->
 ## Personal Roadmap
 
-  - [ ] Complete Robot arm.
-  - [ ] Dont fail college! (WIP) 
-  - [ ] Get a job in software
+  - [ ] :satellite:Complete Robot arm.
+  - [ ] :school_satchel:Dont fail college! (WIP) 
+  - [ ] :computer:Get a job in software
   - [ ] :low_brightness:Touch Grass
  
  ## Learn New Programming Language
