@@ -6,7 +6,7 @@ This github is a sortment of my own personal projects, Learning and tools. Anyth
 
 :books:Languages:
 * :crossed_flags: I speak English, Polish and Japanese!
-* :beginner: Im currently learning Python, Java and C++!
+* :beginner: Im currently learning Python, Java!
 
 
 :memo:My Hobbies!:
@@ -14,6 +14,18 @@ This github is a sortment of my own personal projects, Learning and tools. Anyth
 * :musical_keyboard: Piano, Violin, Guitar, Kalimba!
 * :video_game: Games! (Currently Replaying Sleeping dogs)!
 * :mans_shoe:Skateboarding!
+ 
+ ## Learn New Programming Language
+   - [x] Python  :battery:(|------------) 10%
+   - [x] Java    :battery:(|||----------) 30%
+   - [ ] C++     :battery:(-------------) 00%
+   - [ ] Groovy  :battery:(-------------) 00%
+   - [ ] C#      :battery:(-------------) 00%
+ 
+  ## Learn New Software
+   - [x] Unity   :battery:(|||||-----) 50%
+   - [x] Blender :battery:(|||----------) 30%
+   - [ ] Unreal Engine     :battery:(-------------) 00%
 
 <!-- ROADMAP -->
 ## Personal Roadmap
@@ -22,13 +34,4 @@ This github is a sortment of my own personal projects, Learning and tools. Anyth
   - [ ] :school_satchel:Dont fail college! (WIP) 
   - [ ] :computer:Get a job in software
   - [ ] :low_brightness:Touch Grass
- 
- ## Learn New Programming Language
-   - [x] Python  :battery:(|------------) 10%
-   - [x] Java    :battery:(|||----------) 30%
-   - [ ] C++     :battery:(-------------) 00%
-   - [ ] Groovy  :battery:(-------------) 00%
-   - [ ] C#      :battery:(-------------) 00%
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
