@@ -16,17 +16,17 @@ This github is a sortment of my own personal projects, Learning and tools. Anyth
 * :mans_shoe:Skateboarding!
  
  ## Programming Languages
-   - [x] Python  :battery:(|------------) 10%
-   - [x] Java    :battery:(|||----------) 30%
-   - [ ] C++     :battery:(-------------) 00%
-   - [ ] Groovy  :battery:(-------------) 00%
-   - [ ] C#      :battery:(-------------) 00%
+   - [x] Python  (|------------) 10%
+   - [x] Java    (|||----------) 30%
+   - [ ] C++     (-------------) 00%
+   - [ ] Groovy  (-------------) 00%
+   - [ ] C#      (-------------) 00%
  
   ## Software
-   - [x] Unity   :battery:(|||||-----) 50%
-   - [x] Blender :battery:(|||----------) 30%
-   - [ ] Unreal Engine     :battery:(-------------) 00%
-   - [x] Solidworks :battery:(||||||||--) 80%
+   - [x] Unity   (|||||-----) 50%
+   - [x] Blender (|||----------) 30%
+   - [ ] Unreal Engine     (-------------) 00%
+   - [x] Solidworks (||||||||--) 80%
    
 <!-- ROADMAP -->
 ## Personal Roadmap
