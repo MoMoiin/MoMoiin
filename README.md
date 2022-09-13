@@ -2,7 +2,7 @@
 ## About Me!
 
 :star: Hello im Momo!! Welcome to my Github! :mortar_board:Im a 20 year old student currently studying mechatronic systems in univesity!:heartpulse:
-This github is a sortment of my own personal projects, Learning and tools. Anything I publish can be used for personal learning! :pencil:
+This github is a sortment of my own personal projects, Learning and tools.
 
 :books:Languages:
 * :crossed_flags: I speak English, Polish and Japanese!
