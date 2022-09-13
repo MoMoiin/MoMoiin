@@ -1,38 +1,36 @@
-<!-- ABOUT THE PROJECT -->
-## About Me!
+<!-- Image -->
+<div align="center">
+<npm i --save powerglitch>
+<import { PowerGlitch } from 'powerglitch'>
+<PowerGlitch.glitch('.glitch')>
 
-:star: Hello im Momo!! Welcome to my Github! :mortar_board:Im a 20 year old student currently studying mechatronic systems in univesity!:heartpulse:
-This github is a sortment of my own personal projects, Learning and tools.
+<img class='glitch' src='https://media.giphy.com/media/USmXlU5TUcmZWm5f1m/giphy.gif'  width="300" >
 
-:books:Languages:
-* :crossed_flags: I speak English, Polish and Japanese!
-* :beginner: Im currently learning Python, Java!
+<div align="center"> 
+</div>
 
 
-:memo:My Hobbies!:
-* :computer: Robotics, 3D printing (SLA & FDM), Programming!
-* :musical_keyboard: Piano, Violin, Guitar, Kalimba!
-* :video_game: Games! (Currently Replaying Sleeping dogs)!
-* :mans_shoe:Skateboarding!
+
+<div align="center"> 
+
+## About Me
+
+
+
+#### I'm MoMo, Im a mess with hobbies and try everything just give me an idea!
+
+#### 
+
+</div>
+
  
- ## Programming Languages
-   - [x] Python  (|------------) 10%
-   - [x] Java    (|||----------) 30%
-   - [ ] C++     (-------------) 00%
-   - [ ] Groovy  (-------------) 00%
-   - [ ] C#      (-------------) 00%
- 
-  ## Software
-   - [x] Unity   (|||||-----) 50%
-   - [x] Blender (|||----------) 30%
-   - [ ] Unreal Engine     (-------------) 00%
-   - [x] Solidworks (||||||||--) 80%
-   
-<!-- ROADMAP -->
-## Personal Roadmap
+<span style="color: green"> Welcome </span>
 
-  - [ ] Ender 3 - SKR Mini E3 Marlin 2.1.1 BLTOUCH
-  - [ ] Robotic arm Project
-  
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoMoiin&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoMoiin&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</div>
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
