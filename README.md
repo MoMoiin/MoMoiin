@@ -11,12 +11,12 @@
 </div> 
   
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Experienced%20Programmer%20and%20Mechatronic%20Engineer;Egomaniacal%20Hobbist;Continually%20gaining%20new%20skills%20and %20information&font=Fira%20Code&center=true&width=700&height=45&color=FFFFFF&vCenter=true&size=25&pause=1000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=%20Programmer%20and%20Mechatronic%20Engineer;Egomaniacal%20Hobbist;Continually%20gaining%20new%20skills%20and %20information&font=Fira%20Code&center=true&width=700&height=45&color=FFFFFF&vCenter=true&size=25&pause=1000"></a>
 </p>
 
 <!-- Social icons section -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="??????????"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="?????????"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
@@ -24,8 +24,10 @@
   <a href="????????"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="??????????"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
-<div align="center"> 
+</p>-->
+
+
+<div align="center">
 
 ### 👨‍💻 Programming languages
 
@@ -45,13 +47,28 @@
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
 </p>
- </br>
+</br>
 
 
 <details>
-  <summary> About me! </summary>
-  <ul>
-    Hello! Momo here! a creative mechatronic engineer that loves picking up new interests, among other things! I'm constantly striving to improve. 
+ <summary> About me! </summary>
+ <ul>
+    
+    
+ 
+<img align="right" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MoMoiin&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+    
+#### 💻Hello! Momo here! a creative mechatronic engineer student that loves picking up new interests, among other things! I'm constantly striving to improve!
+   
+#### 🎓Current hobbies include:
+   <ul> Piano, Violin, Programming, FDM Printing, SLA Printing, Skateboarding, Manga and whatever I come up with.
+     
+    
+<br />
+   
+
+
+    
   </ul>
   </details>
  
