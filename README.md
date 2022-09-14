@@ -10,6 +10,14 @@
 </div> 
 </div> 
 
+<details>
+  <summary> Refreshers </summary>
+  <ul>
+    <li> Algorithmics </li>
+    <li> Basic tools </li>
+  </ul>
+  </details>
+  
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Experienced%20Programmer%20and%20Mechatronic%20Engineer;Egomaniacal%20Hobbist;Continually%20gaining%20new%20skills%20and %20information&font=Fira%20Code&center=true&width=700&height=45&color=FFFFFF&vCenter=true&size=25&pause=1000"></a>
 </p>
@@ -49,13 +57,7 @@
 
 
 
- <details>
-  <summary> Refreshers </summary>
-  <ul>
-    <li> Algorithmics </li>
-    <li> Basic tools </li>
-  </ul>
-  </details>
+ 
   
   
 
