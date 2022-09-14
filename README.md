@@ -61,7 +61,7 @@
 #### 💻Hello! Momo here! a creative mechatronic engineer student that loves picking up new interests, among other things! I'm constantly striving to improve!
    
 ### 🎓Current hobbies include:
-   <ul> Piano, Violin, Programming, FDM Printing, SLA Printing, Skateboarding, Manga and whatever I come up with.
+   <ul> Piano, Violin, Programming, FDM Printing, SLA Printing, Skateboarding, Manga.
      
     
 <br />
