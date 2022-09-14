@@ -11,7 +11,7 @@
 </div> 
   
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=%20Programmer%20and%20Mechatronic%20Engineer;Egomaniacal%20Hobbist;Continually%20gaining%20new%20skills%20and %20information&font=Fira%20Code&center=true&width=700&height=45&color=FFFFFF&vCenter=true&size=25&pause=1000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=%20Programmer%20and%20Mechatronic%20Engineer;Egomaniacal%20Hobbist;&font=Fira%20Code&center=true&width=700&height=45&color=FFFFFF&vCenter=true&size=25&pause=1000"></a>
 </p>
 
 <!-- Social icons section -->
