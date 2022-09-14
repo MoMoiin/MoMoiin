@@ -9,14 +9,6 @@
 <div align="center"> 
 </div> 
 </div> 
-
-<details>
-  <summary> Refreshers </summary>
-  <ul>
-    <li> Algorithmics </li>
-    <li> Basic tools </li>
-  </ul>
-  </details>
   
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Experienced%20Programmer%20and%20Mechatronic%20Engineer;Egomaniacal%20Hobbist;Continually%20gaining%20new%20skills%20and %20information&font=Fira%20Code&center=true&width=700&height=45&color=FFFFFF&vCenter=true&size=25&pause=1000"></a>
@@ -51,12 +43,17 @@
 <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
 <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white">
+<a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
 </p>
  </br>
 
 
-
+<details>
+  <summary> About me! </summary>
+  <ul>
+    <li> Hello! Momo here! a creative mechanical engineer that loves picking up new interests, among other things! I'm constantly striving to improve. </li>
+  </ul>
+  </details>
  
   
   
