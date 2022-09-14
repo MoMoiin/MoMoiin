@@ -49,12 +49,13 @@
 
 
 
-<details open>
-<summary>About me!</summary>
-<br>
-Hello! Momo here! a creative mechanical engineer that loves picking up new interests, among other things! I'm constantly striving to improve.
-</details>
-
+ <details>
+  <summary> Refreshers </summary>
+  <ul>
+    <li> Algorithmics </li>
+    <li> Basic tools </li>
+  </ul>
+  </details>
   
   
 
