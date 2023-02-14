@@ -1,19 +1,6 @@
 
 
 
-<div align="center">
-<br />
-
-
-<img  src='https://media.giphy.com/media/USmXlU5TUcmZWm5f1m/giphy.gif'  width="400" >
-<div align="center"> 
-</div> 
-</div> 
-  
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=%20Programmer%20and%20Mechatronic%20Engineer;Egomaniacal%20Hobbist;&font=Fira%20Code&center=true&width=700&height=45&color=FFFFFF&vCenter=true&size=25&pause=1000"></a>
-</p>
-
 <!-- Social icons section -->
 
 <!-- <p align="center">
