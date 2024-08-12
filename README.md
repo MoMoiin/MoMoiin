@@ -44,7 +44,7 @@
  
 <img align="right" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MoMoiin&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     
-#### 💻Hello! Momo here! a creative mechatronic engineer student that loves picking up new interests, among other things! I'm constantly striving to improve!
+#### 💻Hello! Momo here! a creative mechatronic engineer grad that loves picking up new interests, among other things! I'm constantly striving to improve!
    
 ### 🎓Current hobbies include:
    <ul> Piano, Violin, Programming, FDM Printing, SLA Printing, Skateboarding, Manga.
